@@ -1,0 +1,1 @@
+A bug fixed in second text file.
